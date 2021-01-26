@@ -11,7 +11,6 @@
 
 ## 🧐 About <a name = "about"></a>
 This is a pytorch implement of A Dual-branch Network for Infrared and Visible Image Fusionproposed by this paper, 
-(upload later)
 
 http://arxiv.org/abs/2101.09643
 
