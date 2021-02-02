@@ -21,3 +21,11 @@ http://arxiv.org/abs/2101.09643
 run 'test.py'
 
 
+
+### Train 
+
+run 'train,py'
+
+you need some pairs of infrared and visible light images. You can use TNO, or ,KAIST https://github.com/SoonminHwang/rgbt-ped-detection, or other.
+
+
